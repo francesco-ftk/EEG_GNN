@@ -1,2 +1,2 @@
-# EEG_GCNN
+# EEG_GNN
 Bioengineering for Neurosciences Project Exam
